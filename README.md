@@ -48,52 +48,102 @@ A sector-specific CV screening skill for Claude, providing candid feedback, ATS-
 **Focus:** LLMs · HR Tech · Decision Support
 
 [**Explore repository →**](https://github.com/LoreJob/screener)
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📄 CV Screener
+
+**AI-powered CV evaluation**
+
+A sector-specific CV screening skill for Claude, providing candid feedback, ATS-oriented analysis, and transparent reasoning.
+
+**Focus:** LLMs · HR Tech · Decision Support
+
+[**Explore repository →**](https://github.com/LoreJob/screener)
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td colspan="2" valign="top">
+
+### 🕶️ Da Vinci's Coding — Junction 2026
+
+**AI-Powered Safety Assistant with Ray-Ban Meta Smart Glasses**
+
+Built during Junction 2026 in Finland, this prototype explores how wearable AI can enhance personal safety, particularly for elderly people.
+
+The system integrates fall detection, automated camera activation, visual analysis, and voice interaction into an end-to-end safety workflow.
+
+**My contributions:** Application development, deterministic detection logic, data analysis, backend integration, voice capabilities, and end-to-end system integration.
+
+**Tech & Focus:** Computer Vision · Wearable AI · Real-Time Systems · Multimodal AI
+
+[**Explore Repository →**](https://github.com/yanivlakhani/davinciscoding_junction2026)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 📄 CV Screener
+
+**AI-Powered CV Evaluation**
+
+A sector-specific CV screening skill for Claude that provides candid feedback, ATS-oriented analysis, and transparent reasoning to support better career decisions.
+
+**Tech & Focus:** LLMs · Claude Skills · HR Tech
+
+[**Explore Repository →**](https://github.com/LoreJob/screener)
 
 </td>
 <td width="50%" valign="top">
 
 ### 💰 Compensation Optimizer
 
-**Smarter compensation decisions**
+**Smarter Compensation Decisions**
 
-An HR and Finance decision-support prototype for comparing salary increases, benefits, welfare, tax implications, and employer costs.
+An HR and Finance decision-support tool for comparing salary increases, employee benefits, welfare, tax implications, and total employer costs.
 
-**Focus:** Optimization · HR Analytics · Finance
+**Tech & Focus:** Optimization · HR Analytics · Finance
 
-[**Explore repository →**](https://github.com/LoreJob/networth-calculator)
+[**Explore Repository →**](https://github.com/LoreJob/networth-calculator)
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
 ### 🗂️ Multidocument Splitter
 
-**From document chaos to structured workflows**
+**Intelligent Document Processing**
 
-An interactive product demo for reviewing document bundles, identifying boundaries, and managing deterministic processing workflows.
+An interactive application for reviewing document bundles, identifying document boundaries, and managing structured processing workflows.
 
-**Focus:** Document AI · Automation · UX
+**Tech & Focus:** Document AI · Automation · Workflow Design
 
-[**Explore repository →**](https://github.com/LoreJob/multidocument-splitter)
+[**Explore Repository →**](https://github.com/LoreJob/multidocument-splitter)
 
 </td>
 <td width="50%" valign="top">
 
 ### 🔄 Welfare Converter
 
-**Making payroll workflows simpler**
+**Automating Payroll Data Workflows**
 
-A browser-first application that transforms welfare provider files into payroll-ready records while keeping uploaded data local.
+A privacy-conscious, browser-first application that transforms welfare provider files into payroll-ready records while keeping uploaded data local.
 
-**Focus:** Data Transformation · HR Tech · Privacy
+**Tech & Focus:** Data Transformation · HR Tech · Privacy
 
-[**Explore repository →**](https://github.com/LoreJob/opsexc_jethr)
+[**Explore Repository →**](https://github.com/LoreJob/opsexc_jethr)
 
 </td>
 </tr>
 </table>
-
 ---
 
 ## 🛠️ Tech Stack
